@@ -34,5 +34,5 @@ The project is split into two primary modules to maintain a "Separation of Conce
 ├── ticTacToeMain.py  # Main Game Loop & UI Controller
 └── README.md         # Project Documentation
 
-## Author: 
-## Pratap Kolukuluri
+ Author: 
+ Pratap Kolukuluri
