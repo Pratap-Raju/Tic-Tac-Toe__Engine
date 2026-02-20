@@ -21,7 +21,7 @@ The project is split into two primary modules to maintain a "Separation of Conce
 ## 📥 Installation & Running
 1. **Clone the repository:**
    bash:
-   git clone [https://github.com/Pratap-Raju/Tic-Tac-Toe__Engine.git](https://github.com/YOUR_USERNAME/PyTactics.git)
+   git clone [https://github.com/Pratap-Raju/Tic-Tac-Toe__Engine.git](https://github.com/Pratap-Raju/Tic-Tac-Toe__Engine.git)
    cd PyTactics
     python ticTacToeMain.py
 
